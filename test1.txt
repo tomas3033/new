@@ -1,1 +1,3 @@
+Callejas Tomas
 Agregando contenido a test1.txt desde github
+Conflicto resuelto por Callejas Tomas
